@@ -3,65 +3,68 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# 章志伟
+###  章志伟
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">波奇网/linux运维工程师</a>
+<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">波奇网 · linux运维工程师</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="17521124096@sina.cn" style="margin-left:0.5em">17521124096@sina.cn</a>
 </div>
 
 <div id="webaddress">
 
-<i class="fi-home" style="margin-left:1em"></i>
-<p  style="margin-left:0.5em">男 | 26岁 | 本科 | 3年工作经验 |17521124096 | </p>
+<p  style="margin-left:0.5em">男 | 26岁 | 本科 | 3年工作经验 | 上海 | 17521124096  </p>
+
 </div>
 
-## Education
+## 教育经历
 
-### __Columbia University__ `2016.9 - Present`
-```
-New York, NY
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+### __安徽农业大学__ `2010.9 - 2014.6`
+- 本科 · 电子信息工程
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+  ​
 
-## Publications
+### 工作经历
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+---
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+__linux运维 | 波奇(上海)信息科技有限公司__  `2017.4 - 至今`
 
-## Experience
+_linux运维_工程师 <br>
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+1. 保障服务器正常稳定,异常问题排查并编写文档;
+2. 负责618,99,双11,双12 活动 高并发压力测试和调优;
+3. 学习一些开源软件促进高效运维环境,如ansible,k8s,rundeck,zipkin等
 
-### __Columbia Univeristy, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### __linux运维 | 远鼎信息科技(上海)有限公司__ `2015.3 - 2017.4`
 
-### __AsiaInfo__ `2015.6 - 2015.8`
+_linux运维_工程师<br>
+
+1.  负责服务器平台日常维护，搭建，监控，编写脚本和工作手册 
+2.  检查各系统运行状态，问题排查并及时通知  
+3.  维护zabbix监控平台，并对新系统进行监控，编写脚本监控新需求 
+
+### __设备工程师 | 芜湖德豪润达光电科技有限公司__ `2014.7 - 2015.2`
+
 _Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+
+  负责硬件设备维护！制造芯片系统正常运作！
+
+
+
+### 工作经历
+
+---
+
+### __linux运维 | 远鼎信息科技(上海)有限公司__ `2015.3 - 2017.4`
+
+_linux运维_工程师<br>
+
+1. 负责服务器平台日常维护，搭建，监控，编写脚本和工作手册 
+2. 检查各系统运行状态，问题排查并及时通知  
+3. 维护zabbix监控平台，并对新系统进行监控，编写脚本监控新需求 
+
 
 
 ## Teaching
