@@ -3,13 +3,19 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# Wode __Ni__
+# 章志伟
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">columbia.edu/~wn2155</a>
+<a href="http://columbia.edu/~wn2155" style="margin-left:0.5em">波奇网/linux运维工程师</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
+<a href="17521124096@sina.cn" style="margin-left:0.5em">17521124096@sina.cn</a>
+</div>
+
+<div id="webaddress">
+
+<i class="fi-home" style="margin-left:1em"></i>
+<p  style="margin-left:0.5em">男 | 26岁 | 本科 | 3年工作经验 |17521124096 | </p>
 </div>
 
 ## Education
